@@ -1,6 +1,0 @@
-@Saraya_HostAddress = http://localhost:5263
-
-GET {{Saraya_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
